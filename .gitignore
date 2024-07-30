@@ -72,3 +72,8 @@ Unreal_Kononenko/Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 Unreal_Kononenko/DerivedDataCache/*
+
+# IntellijIdea files
+*.iml
+.idea
+out
